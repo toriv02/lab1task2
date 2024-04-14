@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2cd9038-728f-48cb-a27a-92e20ff87776": {
+      "ProjectGuid": "a2cd9038-728f-48cb-a27a-92e20ff87776",
+      "DisplayName": "task2lab1Tprog",
+      "ColorIndex": 0
+    },
+    "922b386d-fdfd-4f5c-b580-d109b4f4fe2f": {
+      "ProjectGuid": "922b386d-fdfd-4f5c-b580-d109b4f4fe2f",
+      "DisplayName": "task2lab1TprogTests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

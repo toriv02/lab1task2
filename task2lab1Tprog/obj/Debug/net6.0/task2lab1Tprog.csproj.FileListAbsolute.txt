@@ -1,0 +1,45 @@
+C:\Users\student\Desktop\task2lab1Tprog\task2lab1Tprog\bin\Debug\net6.0\task2lab1Tprog.exe
+C:\Users\student\Desktop\task2lab1Tprog\task2lab1Tprog\bin\Debug\net6.0\task2lab1Tprog.deps.json
+C:\Users\student\Desktop\task2lab1Tprog\task2lab1Tprog\bin\Debug\net6.0\task2lab1Tprog.runtimeconfig.json
+C:\Users\student\Desktop\task2lab1Tprog\task2lab1Tprog\bin\Debug\net6.0\task2lab1Tprog.dll
+C:\Users\student\Desktop\task2lab1Tprog\task2lab1Tprog\bin\Debug\net6.0\task2lab1Tprog.pdb
+C:\Users\student\Desktop\task2lab1Tprog\task2lab1Tprog\obj\Debug\net6.0\task2lab1Tprog.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\task2lab1Tprog\task2lab1Tprog\obj\Debug\net6.0\task2lab1Tprog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\task2lab1Tprog\task2lab1Tprog\obj\Debug\net6.0\task2lab1Tprog.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\task2lab1Tprog\task2lab1Tprog\obj\Debug\net6.0\task2lab1Tprog.AssemblyInfo.cs
+C:\Users\student\Desktop\task2lab1Tprog\task2lab1Tprog\obj\Debug\net6.0\task2lab1Tprog.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\task2lab1Tprog\task2lab1Tprog\obj\Debug\net6.0\task2lab1Tprog.dll
+C:\Users\student\Desktop\task2lab1Tprog\task2lab1Tprog\obj\Debug\net6.0\refint\task2lab1Tprog.dll
+C:\Users\student\Desktop\task2lab1Tprog\task2lab1Tprog\obj\Debug\net6.0\task2lab1Tprog.pdb
+C:\Users\student\Desktop\task2lab1Tprog\task2lab1Tprog\obj\Debug\net6.0\task2lab1Tprog.genruntimeconfig.cache
+C:\Users\student\Desktop\task2lab1Tprog\task2lab1Tprog\obj\Debug\net6.0\ref\task2lab1Tprog.dll
+E:\2-й курс\технологии программирования\1-я лабораторная работа\task2lab1Tprog\task2lab1Tprog\bin\Debug\net6.0\task2lab1Tprog.exe
+E:\2-й курс\технологии программирования\1-я лабораторная работа\task2lab1Tprog\task2lab1Tprog\bin\Debug\net6.0\task2lab1Tprog.deps.json
+E:\2-й курс\технологии программирования\1-я лабораторная работа\task2lab1Tprog\task2lab1Tprog\bin\Debug\net6.0\task2lab1Tprog.runtimeconfig.json
+E:\2-й курс\технологии программирования\1-я лабораторная работа\task2lab1Tprog\task2lab1Tprog\bin\Debug\net6.0\task2lab1Tprog.dll
+E:\2-й курс\технологии программирования\1-я лабораторная работа\task2lab1Tprog\task2lab1Tprog\bin\Debug\net6.0\task2lab1Tprog.pdb
+E:\2-й курс\технологии программирования\1-я лабораторная работа\task2lab1Tprog\task2lab1Tprog\obj\Debug\net6.0\task2lab1Tprog.csproj.AssemblyReference.cache
+E:\2-й курс\технологии программирования\1-я лабораторная работа\task2lab1Tprog\task2lab1Tprog\obj\Debug\net6.0\task2lab1Tprog.GeneratedMSBuildEditorConfig.editorconfig
+E:\2-й курс\технологии программирования\1-я лабораторная работа\task2lab1Tprog\task2lab1Tprog\obj\Debug\net6.0\task2lab1Tprog.AssemblyInfoInputs.cache
+E:\2-й курс\технологии программирования\1-я лабораторная работа\task2lab1Tprog\task2lab1Tprog\obj\Debug\net6.0\task2lab1Tprog.AssemblyInfo.cs
+E:\2-й курс\технологии программирования\1-я лабораторная работа\task2lab1Tprog\task2lab1Tprog\obj\Debug\net6.0\task2lab1Tprog.csproj.CoreCompileInputs.cache
+E:\2-й курс\технологии программирования\1-я лабораторная работа\task2lab1Tprog\task2lab1Tprog\obj\Debug\net6.0\task2lab1Tprog.dll
+E:\2-й курс\технологии программирования\1-я лабораторная работа\task2lab1Tprog\task2lab1Tprog\obj\Debug\net6.0\refint\task2lab1Tprog.dll
+E:\2-й курс\технологии программирования\1-я лабораторная работа\task2lab1Tprog\task2lab1Tprog\obj\Debug\net6.0\task2lab1Tprog.pdb
+E:\2-й курс\технологии программирования\1-я лабораторная работа\task2lab1Tprog\task2lab1Tprog\obj\Debug\net6.0\task2lab1Tprog.genruntimeconfig.cache
+E:\2-й курс\технологии программирования\1-я лабораторная работа\task2lab1Tprog\task2lab1Tprog\obj\Debug\net6.0\ref\task2lab1Tprog.dll
+C:\Users\stud\Desktop\task2lab1Tprog\task2lab1Tprog\obj\Debug\net6.0\task2lab1Tprog.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\task2lab1Tprog\task2lab1Tprog\obj\Debug\net6.0\task2lab1Tprog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\task2lab1Tprog\task2lab1Tprog\obj\Debug\net6.0\task2lab1Tprog.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\task2lab1Tprog\task2lab1Tprog\obj\Debug\net6.0\task2lab1Tprog.AssemblyInfo.cs
+C:\Users\stud\Desktop\task2lab1Tprog\task2lab1Tprog\obj\Debug\net6.0\task2lab1Tprog.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\task2lab1Tprog\task2lab1Tprog\obj\Debug\net6.0\task2lab1Tprog.dll
+C:\Users\stud\Desktop\task2lab1Tprog\task2lab1Tprog\obj\Debug\net6.0\refint\task2lab1Tprog.dll
+C:\Users\stud\Desktop\task2lab1Tprog\task2lab1Tprog\obj\Debug\net6.0\task2lab1Tprog.pdb
+C:\Users\stud\Desktop\task2lab1Tprog\task2lab1Tprog\bin\Debug\net6.0\task2lab1Tprog.exe
+C:\Users\stud\Desktop\task2lab1Tprog\task2lab1Tprog\bin\Debug\net6.0\task2lab1Tprog.deps.json
+C:\Users\stud\Desktop\task2lab1Tprog\task2lab1Tprog\bin\Debug\net6.0\task2lab1Tprog.runtimeconfig.json
+C:\Users\stud\Desktop\task2lab1Tprog\task2lab1Tprog\bin\Debug\net6.0\task2lab1Tprog.dll
+C:\Users\stud\Desktop\task2lab1Tprog\task2lab1Tprog\bin\Debug\net6.0\task2lab1Tprog.pdb
+C:\Users\stud\Desktop\task2lab1Tprog\task2lab1Tprog\obj\Debug\net6.0\task2lab1Tprog.genruntimeconfig.cache
+C:\Users\stud\Desktop\task2lab1Tprog\task2lab1Tprog\obj\Debug\net6.0\ref\task2lab1Tprog.dll
